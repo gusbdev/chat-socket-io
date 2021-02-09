@@ -5,5 +5,5 @@
 
 🧠 Concepts Covered:
 
-- Socket.io
+- Web socket, using Socket.io
 - Real time application
